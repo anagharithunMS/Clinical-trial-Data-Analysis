@@ -1,6 +1,6 @@
 # Clinical-trial-Data-Analysis
 
-The ataset contains information on clinical trials conducted by sponsors. Each row represents a clinical trial, and the columns represent various attributes of the trial, such as the National Clinical Trial Number, the sponsor of the trial, the title of the trial, and so on.
+The dataset contains information on clinical trials conducted by sponsors. Each row represents a clinical trial, and the columns represent various attributes of the trial, such as the National Clinical Trial Number, the sponsor of the trial, the title of the trial, and so on.
 
 The purpose of this dataset is to provide a bird's-eye view of the clinical trial landscape. By understanding which sponsors are conducting which trials and for what conditions, we can get a better sense of where research is headed and what new treatments may be on the horizon.
 
